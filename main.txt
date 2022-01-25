@@ -1,0 +1,28 @@
+\documentclass[10pt,a4paper,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{fix-cm,calc}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{titlesec}
+\titleformat{\subsubsection}{\Large\bfseries}{}{0.5ex}{\centering\newpage}
+\author{Your Name}
+\title{Kochbuch}
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+%Article: \part{}, \section{}, \subsection{}, \subsubsection{}, \paragraph{}, \subparagraph{}.
+%Input here your recipe-file
+%\input{Rezepte/.tex}
+%\input{Rezepte/.tex}
+%\input{Rezepte/.tex}
+%\input{Rezepte/.tex}
+%\input{Rezepte/.tex}
+\end{document}
